@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="748d6fc4-eb30-4bb7-9a05-43d9f0a51003" name="Default Changelist" comment="" />
+    <list default="true" id="748d6fc4-eb30-4bb7-9a05-43d9f0a51003" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SeaSpirits G01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SeaSpirits G01.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,13 +20,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="748d6fc4-eb30-4bb7-9a05-43d9f0a51003" name="Default Changelist" comment="" />
       <created>1691246057050</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691246057050</updated>
+      <workItem from="1691268435342" duration="6000" />
     </task>
     <servers />
   </component>
