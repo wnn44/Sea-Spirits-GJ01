@@ -9,9 +9,102 @@
       <e p="Assets" t="Include">
         <e p="Images" t="Include" />
         <e p="Models" t="Include" />
+        <e p="Samples" t="Include">
+          <e p="Universal RP" t="Include">
+            <e p="12.1.8" t="Include">
+              <e p="URP Package Samples" t="Include">
+                <e p="CameraStacking" t="Include">
+                  <e p="3D Skybox" t="Include">
+                    <e p="3DSkybox" t="Include" />
+                    <e p="Animation" t="Include" />
+                    <e p="Materials" t="Include" />
+                    <e p="Prefabs" t="Include" />
+                    <e p="Scripts" t="Include">
+                      <e p="SkyboxCamera.cs" t="Include" />
+                    </e>
+                    <e p="Shaders" t="Include" />
+                  </e>
+                  <e p="MixedFOV" t="Include">
+                    <e p="MixedFOV" t="Include" />
+                    <e p="Prefabs" t="Include" />
+                  </e>
+                  <e p="SplitScreen" t="Include">
+                    <e p="SplitScreen" t="Include" />
+                  </e>
+                </e>
+                <e p="Decals" t="Include">
+                  <e p="BlobShadow" t="Include">
+                    <e p="Animation" t="Include" />
+                    <e p="BlobShadow" t="Include" />
+                  </e>
+                  <e p="PaintSplat" t="Include">
+                    <e p="PaintSplat" t="Include" />
+                  </e>
+                  <e p="ProxyLighting" t="Include">
+                    <e p="Materials" t="Include" />
+                    <e p="Shaders" t="Include" />
+                  </e>
+                </e>
+                <e p="LensFlares" t="Include">
+                  <e p="Animation" t="Include" />
+                  <e p="LensFlarePresets" t="Include" />
+                  <e p="Scripts" t="Include">
+                    <e p="ScreenSpacePlacement.cs" t="Include" />
+                  </e>
+                  <e p="SunFlare" t="Include" />
+                  <e p="Textures" t="Include" />
+                </e>
+                <e p="RendererFeatures" t="Include">
+                  <e p="AmbientOcclusion" t="Include">
+                    <e p="AmbientOcclusion" t="Include" />
+                    <e p="Animation" t="Include" />
+                  </e>
+                  <e p="GlitchEffect" t="Include">
+                    <e p="GlitchEffect" t="Include" />
+                  </e>
+                  <e p="KeepFrame" t="Include">
+                    <e p="KeepFrameFeature.cs" t="Include" />
+                  </e>
+                  <e p="OcclusionEffect" t="Include">
+                    <e p="Animation" t="Include" />
+                    <e p="OcclusionEffect" t="Include" />
+                  </e>
+                  <e p="TrailEffect" t="Include">
+                    <e p="Animation" t="Include" />
+                    <e p="Shaders" t="Include" />
+                    <e p="TrailEffect" t="Include" />
+                  </e>
+                </e>
+                <e p="Shaders" t="Include">
+                  <e p="Lit" t="Include">
+                    <e p="Lit" t="Include" />
+                    <e p="Materials" t="Include" />
+                    <e p="Models" t="Include" />
+                    <e p="Prefabs" t="Include" />
+                    <e p="Textures" t="Include" />
+                  </e>
+                </e>
+                <e p="SharedAssets" t="Include">
+                  <e p="Fonts" t="Include" />
+                  <e p="Materials" t="Include" />
+                  <e p="Prefabs" t="Include" />
+                  <e p="Scripts" t="Include">
+                    <e p="AutoLoadPipelineAsset.cs" t="Include" />
+                    <e p="FirstPersonController.cs" t="Include" />
+                  </e>
+                  <e p="Settings" t="Include" />
+                  <e p="Shaders" t="Include">
+                    <e p="3DText.shader" t="Include" />
+                  </e>
+                  <e p="Textures" t="Include" />
+                  <e p="VolumeProfiles" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
         <e p="Scenes" t="Include" />
         <e p="Scripts" t="Include">
-          <e p="PlayrMove.cs" t="Include" />
           <e p="Timer.cs" t="Include" />
         </e>
         <e p="StarterAssets" t="Include">
