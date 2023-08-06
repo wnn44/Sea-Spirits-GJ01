@@ -6,21 +6,20 @@ using UnityEngine;
 public class KeyManager : MonoBehaviour
 {
 
-    public int NumberOfKeys;
+    public int keysTaken;
     [SerializeField] private TextMeshProUGUI _text;
     [SerializeField] private int _totalKeys;
 
     private void Start()
     {
         //NumberOfKeys = Progress.Instance.Keys;
-        _text.text = NumberOfKeys.ToString() + " из "+ _totalKeys.ToString();
+        _text.text = keysTaken.ToString() + " из "+ _totalKeys.ToString();
     }
 
     public void AddOne()
     {
-        NumberOfKeys += 1;
-        _text.text = NumberOfKeys.ToString() + " из " + _totalKeys.ToString();
-
+            keysTaken += 1;
+            _text.text = keysTaken.ToString() + " из " + _totalKeys.ToString();
     }
 
     public void SaveToProgress()
@@ -28,9 +27,9 @@ public class KeyManager : MonoBehaviour
         //Progress.Instance.Keys = NumberOfKeys;
     }
 
-    public void SpendMoney(int volue)
+    public void SpendKey(int volue)
     {
-        NumberOfKeys -= volue;
-        _text.text = NumberOfKeys.ToString();
+        keysTaken -= volue;
+        _text.text = keysTaken.ToString();
     }
 }
